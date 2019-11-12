@@ -35,7 +35,7 @@ def Screenshot_with_Paint(name):
 	sleep(3)
 	pyautogui.hotkey('ctrl', 's')
 	sleep(15)
-	pyautogui.typewrite('c:\\Python\\Script_Pictures\\moduleTest\\Screenshots\\Unit5\\')
+	pyautogui.typewrite('c:\\Python\\Script_Pictures\\moduleTest\\Screenshots\\Unit2\\')
 	sleep(1)
 	pyautogui.typewrite(currentDay)
 	sleep(1)
