@@ -59,7 +59,7 @@ def injectModule(moduleName):
 		btnPos.click_CallTutorBtn()
 	Screenshot_with_Paint(moduleName)
 
-Local_Frontend_Login('dchau', 'Cangetin00')
+Local_Frontend_Login('dchau_test', 'Cangetin00')
 
 #Iterates through modules in moduleData dictionary
 for module in moduleDataUnit5:
