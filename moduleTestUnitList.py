@@ -144,7 +144,38 @@ moduleDataUnit8 = {
 			'2K16 Active Directory Integrated Zones': (120, 1, False),
 }
 
-moduleDataCORP = {
+moduleDataUnit9 = {
+	'2K16 Domain FSMO Roles': (130, 1, False),
+	'2K16 Forest FSMO Roles': (110, 0, False),
+	'2K16 FSMO Transfer and Seizure': (110, 5, True),
+	'2K16 AD Maintenance': (120, 5, False),
+	'2K16 Active Directory Recycle Bin': (110, 4, False),
+	'2K16 Active Directory Backups': (435, 0, False),
+	'2K16 Active Directory Restore Basics': (20, 0, False),
+	'2K16 DSRM - Non-Authoritative Restore': (125, 0, False),
+	'2K16 DSRM - Authoritative Restore': (200, 2, False),
+	'2K16 AD Troubleshooting - Windows Sysinternals': (125, 5, False),
+	'2K16 AD Troubleshooting - ADTD': (185, 4, False),
+	'2K16 Sabotage': (145, 1, True),
+	'2K16 Group Policy Introduction': (85, 1, False),
+	'2K16 Group Policy Security - Account Policies': (180, 0, True),
+	'2K16 Group Policy Security - Administrative Templates': (115, 6, True),
+	'2K16 Group Policy Accountability - Domain Auditing': (120, 0, False),
+	'2K16 Group Policy Deployment - Assign Software': (200, 2, False),
+	'2K16 Group Policy Deployment - Publish Software': (190, 0, False),
+	'2K16 Group Policy Deployment - Printers': (150, 1, True),
+	'2K16 Group Policy Deployment - Logon Scripts': (155, 0, False),
+	'2K16 Group Policy - Folder Redirection': (200, 2, False),
+	'2K16 Group Policy - Folder Redirection Activity': (135, 0, False),
+	'2K16 Group Policy - Introduction to Security Templates': (115, 0, False),
+	'2K16 Group Policy - Security Templates Implementation': (),
+	'2K16 Group Policy - Domain Controller Security': (),
+	'2K16 Group Policy Troubleshooting - Conflicts': (),
+	'2K16 Group Policy Troubleshooting - RSOP': (),
+	'2K16 Group Policy Troubleshooting - Tools': (),
+}
+
+moduleDataGlobal = {
 			'2K16 Web Server - Introduction': (120, 1, False),
 			'2K16 Web Server - Managing Websites 1': (630, 1, False),
 			'2K16 Storage - Mirrored Volumes': (90, 0, True),
