@@ -168,11 +168,11 @@ moduleDataUnit9 = {
 	'2K16 Group Policy - Folder Redirection': (200, 2, False),
 	'2K16 Group Policy - Folder Redirection Activity': (135, 0, False),
 	'2K16 Group Policy - Introduction to Security Templates': (115, 0, False),
-	'2K16 Group Policy - Security Templates Implementation': (),
-	'2K16 Group Policy - Domain Controller Security': (),
-	'2K16 Group Policy Troubleshooting - Conflicts': (),
-	'2K16 Group Policy Troubleshooting - RSOP': (),
-	'2K16 Group Policy Troubleshooting - Tools': (),
+	'2K16 Group Policy - Security Templates Implementation': (150, 1, False),
+	'2K16 Group Policy - Domain Controller Security': (115, 0, False),
+	'2K16 Group Policy Troubleshooting - Conflicts': (120, 0, False),
+	'2K16 Group Policy Troubleshooting - RSOP': (155, 4, True),
+	'2K16 Group Policy Troubleshooting - Tools': (120, 2, True),
 }
 
 moduleDataGlobal = {
