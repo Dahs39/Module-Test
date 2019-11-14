@@ -1,4 +1,4 @@
-# Unit List
+# Unit Lists
 
 # Unit 2 List
 moduleDataUnit2 = {
@@ -41,7 +41,7 @@ moduleDataUnit5 = {
 			'Subnetting Video Lecture - Pt. 3':(30, 0, False),
 			'Subnetting Video Lecture - Pt. 4':(30, 0, False),
 			'Subnetting Video Lecture - Pt. 5':(30, 0, False),
-			'Network Name Resolution 2016':(100, 0, False),
+			'Network Name Resolution Win10':(100, 0, False),
 			'What Packet - Scenario 9':(20, 1, False),
 			'Snow White Dot Com':(90, 0, False),
 			'Introduction to Boolean Logic':(20, 1, False),
@@ -144,6 +144,7 @@ moduleDataUnit8 = {
 			'2K16 Active Directory Integrated Zones': (120, 1, False),
 }
 
+# Unit 9 List as of 11/14/19
 moduleDataUnit9 = {
 	'2K16 Domain FSMO Roles': (130, 1, False),
 	'2K16 Forest FSMO Roles': (110, 0, False),
@@ -175,15 +176,16 @@ moduleDataUnit9 = {
 	'2K16 Group Policy Troubleshooting - Tools': (120, 2, True),
 }
 
+# Global Test List as of 11/14/19
 moduleDataGlobal = {
 			'2K16 Web Server - Introduction': (120, 1, False),
 			'2K16 Web Server - Managing Websites 1': (630, 1, False),
-			'2K16 Storage - Mirrored Volumes': (90, 0, True),
+			'2K16 Storage - Mirrored Volumes': (125, 0, True),
 			'2K16 Print Server - Printer Basics 1': (150, 0, False),
 			'2K16 Performance Monitor': (120, 0, False),
 			'2K16 Group Policy Troubleshooting - RSOP': (120, 1, False),
 			'2K16 Group Policy Deployment - Publish Software': (150, 0, False),
-			'2K16 Group Policy - Folder Redirection': (120, 1, False),
+			'2K16 Group Policy - Folder Redirection': (200, 2, False),
 			'2K16 Global Catalog - Schema': (120, 0, False),
 			'2K16 Global Catalog - Database in the Raw': (120, 1, False),
 			'2K16 DHCP - MAC Filtering': (120, 0, False),
@@ -191,18 +193,19 @@ moduleDataGlobal = {
 			'2K16 Auditing 1': (100, 1, False),
 			'2K16 Active Directory Restore Basics': (60, 0, False),
 			'2K16 AD Maintenance': (120, 1, False),
-			'DNS Server as resolver 2016': (150, 1, False),
-			'DNS Zones 2016': (45, 1, False),
-			'Rise and Shine Exercise 2016': (200, 1, False),
-			'DNS Recursion 2016': (30, 1, False),
-			'Adding an Alias Record Exercise 2016': (130, 1, False),
-			'Who Hijacked the Mail Server Exercise 2016': (500, 1, False),
-			'Introduction to the Domain 2016': (350, 1, False),
-			'Installing Admin Tools 2016': (390, 0, False),
-			'User Profiles - Change User Name 2016': (400, 0, False),
-			'User Profiles - Default User 2016': (120, 1, False),
-			'User Profiles - Mandatory Profiles 2016': (460, 1, False),
+			'DNS Server as resolver Win10': (150, 1, False),
+			'DNS Zones Win10': (45, 1, False),
+			'Rise and Shine Exercise Win10': (200, 1, False),
+			'DNS Recursion Win10': (30, 1, False),
+			'Adding an Alias Record Exercise Win10': (130, 1, False),
+			'Who Hijacked the Mail Server Exercise Win10': (500, 1, False),
+			'Introduction to the Domain Win10': (350, 1, False),
+			'Installing Admin Tools Win10': (390, 0, False),
+			'User Profiles - Change User Name Win10': (400, 0, False),
+			'User Profiles - Default User Win10': (120, 1, False),
+			'User Profiles - Mandatory Profiles Win10': (460, 1, False),
 			'2K16 Adding Counters': (120, 0 , False),
+			'2K16 Sabotage': (145, 1, True),
 			'2K16 Basic OS - Device Manager': (90, 1, False),
 			'2K16 DHCP - Scope Options': (600, 0, False),
 			'2K16 File Server Access Management - Group Types and Scopes': (600, 1, False),
@@ -211,7 +214,7 @@ moduleDataGlobal = {
 			'2K16 DSRM - Non-Authoritative Restore': (900, 0 , False),
 			'2K16 DHCP - Scopes': (130, 0, False),
 			'2K16 Auditing 2': (100, 1, False),
-			'2K16 Directing Authentication': (120, 0, False),
+			'2K16 Directing Authentication': (200, 0, False),
 			'2K16 Disaster Recovery': (100, 1, False),
 			'2K16 Group Policy Security - Administrative Templates': (100, 5, False),
 			'2K16 Active Directory Structure - OU Delegation': (130, 0, False),
