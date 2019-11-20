@@ -179,7 +179,7 @@ class btnPos:
 # Logs in to a local frontend with username and password passed through, default is dtl registrar.
 def Local_Frontend_Login(user, password):
 	os.startfile('c:\\runtime\\loginfrontend.bat')
-	sleep(25)
+	sleep(60)
 	btnPos.click_MaximizeFrontEndBtn()
 	pyautogui.typewrite(['f1'])
 	pyautogui.typewrite(user)
