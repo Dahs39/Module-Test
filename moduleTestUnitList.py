@@ -176,6 +176,40 @@ moduleDataUnit9 = {
 			'2K16 Group Policy Troubleshooting - Tools': (120, 2, True),
 }
 
+# Exchange DX List as of 1/14/20
+moduleDataExchange = {
+			'Introduction to Exchange 2007': (300, 1, True),
+			'Installation of Exchange 2007': (300, 1, True),
+			'Exchange Recipients - Mailboxes': (300, 1, True),
+			'Exchange Recipients - Distribution Groups': (300, 1, True),
+			'Exchange Recipients - Mail Users and Contacts': (300, 1, True),
+			'Exchange Storage Locations': (300, 1, True),
+			'Exchange Hierarchy and Roles': (300, 1, True),
+			'Exchange Server Roles': (300, 1, True),
+			'Exchange Email Clients': (300, 1, True),
+			'Exchange Email Clients - OWA': (300, 1, True),
+			'Exchange Email Clients - Mobile Devices': (300, 1, True),
+			'Alton Business Trip': (300, 1, True),
+			'External Email Delivery': (300, 1, True),
+			'External Email Delivery - Configuring Connectors': (300, 1, True),
+			'Exchange 2007 Services': (300, 1, True),
+			'Exchange Services (Exchange Site Placement - GC)': (300, 1, True),
+			'Varney Sniffles': (300, 1, True),
+			'Hey, Before You Go...': (300, 1, True),
+			'Introduction to Public Folders': (300, 1, True),
+			'Public Folders Management Part 1': (300, 1, True),
+			'Public Folders Management Part 2': (300, 1, True),
+			'Public Folders Management Part 3 - Intro to PF Replication': (300, 1, True),
+			'Public Folders Management Part 4 - PF Replication': (300, 1, True),
+			'The Lawsuit': (300, 1, True),
+			'Exchange Management Tasks: Client-Side Configuration': (300, 1, True),
+			'Exchange Management Tasks: Email Client Configuration': (300, 1, True),
+			'Exchange Management Tasks: Email Address Management': (300, 1, True),
+			'Exchange Management Tasks: OABs': (300, 1, True),
+			'Exchange Management Tasks: Misc Tasks - Cached Exchange Mode': (300, 1, True),
+			'Exchange Management Tasks: Misc Tasks - Free/Busy': (300, 1, True),
+}
+
 # Global Test List as of 11/14/19
 moduleDataGlobal = {
 			'2K16 Web Server - Introduction': (150, 1, False),
