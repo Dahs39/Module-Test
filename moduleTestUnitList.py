@@ -181,7 +181,7 @@ moduleDataExchange = {
 			'Introduction to Exchange 2007': (145, 2, False),
 			'Installation of Exchange 2007': (600, 1, True),
 			'Exchange Recipients - Mailboxes': (175, 2, False),
-			'Exchange Recipients - Distribution Groups': (150, 0, False),
+			'Exchange Recipients - Distribution Groups': (180, 0, False),
 			'Exchange Recipients - Mail Users and Contacts': (180, 0, False),
 			'Exchange Storage Locations': (150, 0, False),
 			'Exchange Hierarchy and Roles': (200, 1, False),
