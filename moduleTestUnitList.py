@@ -201,7 +201,7 @@ moduleDataExchange = {
 			'Public Folders Management Part 2': (300, 1, True),
 			'Public Folders Management Part 3 - Intro to PF Replication': (300, 1, True),
 			'Public Folders Management Part 4 - PF Replication': (300, 1, True),
-			'The Lawsuit': (300, 1, True),
+			'The Lawsuit': (330, 1, True),
 			# 'Exchange Management Tasks: Client-Side Configuration': (300, 1, True),
 			# 'Exchange Management Tasks: Email Client Configuration': (300, 1, True),
 			# 'Exchange Management Tasks: Email Address Management': (300, 1, True),
